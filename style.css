@@ -91,6 +91,7 @@ img{
     right: 0;
  
   }
+ 
   
   .boxes > div {
     align-items: end;
@@ -116,10 +117,19 @@ img{
 
   .main-body{
     width: 100%;
-    display: flex;
+    height: 647px;
+    
+    gap: 120px;
   }
   .about{
-    width: 60%;
+    width: 70%;
+   
+  }
+  .design{
+    height:15px ;
+  }
+  .svg1{
+    width: 15px;
   }
   .about-test{
     
@@ -129,9 +139,7 @@ img{
     color: rgb(0, 0, 0); /* Optional: change the color */
 }
    
- .design{
-    width: 20%;
- }
+
 
  .studying{
     margin-left: 152px;
@@ -144,6 +152,8 @@ img{
   font-size: larger;
 }
 
-  
+  #uniqe{
+     padding-bottom: 229px;
+  }
  
  
